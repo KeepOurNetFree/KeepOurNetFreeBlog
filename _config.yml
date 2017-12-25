@@ -16,13 +16,12 @@
 title: Keep Our Net Free Blog
 email: contact@keepournetfree.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  KeepOurNetFree is a grassroots movement dedicated to promoting Internet rights. 
+  We do not take donations and are staffed entirely by volunteers.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://keepournetfree.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: KeepOurNetFree
+github_username:  KeepOurNetFree
 
 # Build settings
 markdown: kramdown
