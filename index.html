@@ -8,6 +8,13 @@ title: My Blog
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
     <span class="date">{{ post.date }}</span>
+    <span class="author-name">{{ site.data.authors[page.author_github].name }}</span>
+    <a href="www.twitter.com/{{site.data.authors[page.author_github].twitter}}">
+      <i class="ico-twitter"></i>
+    </a>
+    <a href="www.github.com/{{site.data.authors[page.author_github].github}}">
+      <i class="ico-github"></i>
+    </a>
   </p>
   <div class="content">
     {{ post.content }}
