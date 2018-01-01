@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The FCC repealed net neutrality, but it’s still not too late to stop ISPs from violating your internet rights.
-date: 2018-01-01 12:40:00 -0500
+date: January 1st, 2018
 categories: net-neutrality
 ---
 
