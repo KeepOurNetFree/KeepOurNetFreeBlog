@@ -7,7 +7,7 @@ categories: net-neutrality
 
 <a rel="author" href="https://twitter.com/saligrama427" title="Aditya Saligrama">Aditya Saligrama</a>
 
-Two weeks ago, in a heavily controversial move, the FCC [repealed net neutrality](https://www.fcc.gov/restoring-internet-freedom) in a 3-2 vote, split along party lines. This decision has several immediate consequences affecting each and every American citizen.
+Two weeks ago, in a heavily controversial move, the FCC [repealed net neutrality](https://www.fcc.gov/restoring-internet-freedom) in a 3-2 vote split along party lines. This decision has several immediate consequences affecting each and every American citizen.
 
 However, not all of the effects of the repeal will be immediately visible. In order to understand the long-term consequences, let’s quickly recap. Net neutrality is the basic principle that prevents internet service providers (ISPs) such as Comcast, Verizon, or AT&T from arbitrarily speeding up, slowing down, or preventing access to content over their networks. For example, Comcast, which already has a stake in Hulu, could throttle Netflix, Hulu’s direct competitor, slowing down its streaming speeds and forcing consumers to switch to Hulu out of necessity rather than Hulu being the superior service. This sort of business practice is inherently anti-competition, and by extension, anti-consumer and anti-free market.
 
